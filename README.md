@@ -35,3 +35,8 @@ The implementation is in Java, using web3j.
 # Authors
 
 Massimiliano Masi / max@mascanc.net 
+
+<a href="https://scan.coverity.com/projects/mascanc-grapevinetokendistribution">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/16843/badge.svg"/>
+</a>
